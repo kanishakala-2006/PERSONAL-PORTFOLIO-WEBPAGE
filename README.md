@@ -30,3 +30,6 @@ This project also demonstrates fundamental front-end development concepts such a
 
 In conclusion, the E-Learning Platform front-end application provides a structured and interactive digital learning environment. It combines course discovery, multimedia learning, and progress monitoring within a responsive multi-page design. The project showcases essential web development skills and serves as a foundational model for building more advanced learning management systems in the future.
 
+#OUTPUT 
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f5280484-6485-48a1-a4fb-b4613415e3e4" />
